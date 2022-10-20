@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "y5QGEBIApiT6TyBx6V4AvciRyYCuNqk4QnZPnrcZ5vSajdQRKNsIS8wqf5Y9nuptBc5K5JLan7ReLcuj1zkPeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vagrant\\source\\repos\\SeleniumUnitTests\\SeleniumUnitTests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vagrant\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
+    "C:\\Users\\vagrant\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "C:\\Users\\vagrant\\.nuget\\packages\\dynamicexpresso.core\\2.13.0\\dynamicexpresso.core.2.13.0.nupkg.sha512",
+    "C:\\Users\\vagrant\\.nuget\\packages\\exceldatareader\\3.7.0-develop00310\\exceldatareader.3.7.0-develop00310.nupkg.sha512",
+    "C:\\Users\\vagrant\\.nuget\\packages\\exceldatareader.dataset\\3.7.0-develop00310\\exceldatareader.dataset.3.7.0-develop00310.nupkg.sha512",
+    "C:\\Users\\vagrant\\.nuget\\packages\\microsoft.codecoverage\\17.4.0-preview-20220726-02\\microsoft.codecoverage.17.4.0-preview-20220726-02.nupkg.sha512",
+    "C:\\Users\\vagrant\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\vagrant\\.nuget\\packages\\microsoft.net.test.sdk\\17.4.0-preview-20220726-02\\microsoft.net.test.sdk.17.4.0-preview-20220726-02.nupkg.sha512",
+    "C:\\Users\\vagrant\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\vagrant\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.4.0-preview-20220726-02\\microsoft.testplatform.objectmodel.17.4.0-preview-20220726-02.nupkg.sha512",
+    "C:\\Users\\vagrant\\.nuget\\packages\\microsoft.testplatform.testhost\\17.4.0-preview-20220726-02\\microsoft.testplatform.testhost.17.4.0-preview-20220726-02.nupkg.sha512",
+    "C:\\Users\\vagrant\\.nuget\\packages\\mstest.testadapter\\2.3.0-preview-20220810-02\\mstest.testadapter.2.3.0-preview-20220810-02.nupkg.sha512",
+    "C:\\Users\\vagrant\\.nuget\\packages\\mstest.testframework\\2.3.0-preview-20220810-02\\mstest.testframework.2.3.0-preview-20220810-02.nupkg.sha512",
+    "C:\\Users\\vagrant\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\vagrant\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\vagrant\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
+    "C:\\Users\\vagrant\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\vagrant\\.nuget\\packages\\selenium.support\\4.5.0\\selenium.support.4.5.0.nupkg.sha512",
+    "C:\\Users\\vagrant\\.nuget\\packages\\selenium.webdriver\\4.5.0\\selenium.webdriver.4.5.0.nupkg.sha512",
+    "C:\\Users\\vagrant\\.nuget\\packages\\selenium.webdriver.chromedriver\\106.0.5249.6100\\selenium.webdriver.chromedriver.106.0.5249.6100.nupkg.sha512",
+    "C:\\Users\\vagrant\\.nuget\\packages\\selenium.webdriver.geckodriver\\0.31.0.1\\selenium.webdriver.geckodriver.0.31.0.1.nupkg.sha512",
+    "C:\\Users\\vagrant\\.nuget\\packages\\selenium.webdriver.msedgedriver\\106.0.1363-pre\\selenium.webdriver.msedgedriver.106.0.1363-pre.nupkg.sha512",
+    "C:\\Users\\vagrant\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
