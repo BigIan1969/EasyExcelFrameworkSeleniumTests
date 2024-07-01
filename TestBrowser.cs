@@ -13,7 +13,7 @@ namespace SeleniumUnitTests
             EasyExcelFrameworkSelenium.EasyExcelFrameworkSelenium eef = new EasyExcelFrameworkSelenium.EasyExcelFrameworkSelenium("Data\\LaunchChrome.xlsx");
 
             eef.EasyExcel.Execute();
-            Assert.AreEqual("chrome", eef.EasyExcel.Locals["BrowserN"]);
+            Assert.AreEqual("chrome-headless-shell", eef.EasyExcel.Locals["BrowserN"]);
             eef.driver.Quit();
 
         }
